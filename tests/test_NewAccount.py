@@ -1,7 +1,7 @@
 import pytest
 from selenium.webdriver import ActionChains
 
-from TestData.LoginPageData import LoginPageData
+from testData.LoginPageData import LoginPageData
 from pageObject.LoginPage import LoginPage
 from utilities.BaseClass import BaseClass
 
